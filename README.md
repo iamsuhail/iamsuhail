@@ -10,9 +10,9 @@
 # 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,react,nodejs,express,git,github,mongodb,mysql,scss,aws,firebase,vscode)](https://skillicons.dev)
 ## 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=iamsuhail&theme=dark&hide_border=false)
-![](https://github-contributor-stats.vercel.app/api?username=iamsuhail&limit=5&theme=dark&combine_all_yearly_contributions=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iamsuhail&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=iamsuhail&theme=dark&hide_border=false)
+
 
 
 
