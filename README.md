@@ -1,5 +1,5 @@
 # <h1 align="center">Hi 👋, I'm Muhammad Suhail</h1>
-![image](https://github.com/iamsuhail/iamsuhail/assets/78575837/f7df8494-3940-4e37-a8c1-11905e470fde)
+<img align="right" src="https://github.com/iamsuhail/iamsuhail/assets/78575837/f7df8494-3940-4e37-a8c1-11905e470fde" alt="Your Image" width="400" height="300">
 
 # 💫 About Me:
 👀 I’m interested in Web Development<br>🌱 I’m currently learning Adv technology of web apps<br>💞️ I’m looking to collaborate on projects based on web<br>📫 How to reach me muhammad.suhail1762@gmail.com<br>
