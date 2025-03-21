@@ -1,10 +1,16 @@
-<img src="https://media.licdn.com/dms/image/D5616AQGEOiJkxr3jgw/profile-displaybackgroundimage-shrink_350_1400/0/1711149039391?e=1718236800&v=beta&t=hQIodCK-GJmPLQT0cRCOwtgT-aQZT06ZDPIlFRPtrxU">
  <h1 align="center">Hi 👋, I'm Muhammad Suhail</h1>
-<img align="right" src="https://camo.githubusercontent.com/01c83210f7feb975ea3b9a852808beb6689425add471f76f942c15875626af5d/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" alt="Your Image" width="400" height="300">
 
 # 💫 About Me:
-👀 I’m interested in Web Development<br>🌱 I’m currently learning Adv technology of web apps<br>💞️ I’m looking to collaborate on projects based on web<br>📫 How to reach me muhammad.suhail1762@gmail.com<br>
-👨‍💻 All of my projects are available at [iamsuhail.tech](iamsuhail.tech)
+Hello! My name is Muhammad Suhail and I enjoy creating things that live on the internet. My interest in Software development and Tech started back in my sophomore year and since then, I've been avidly exploring diverse technologies to enhance my skills and create impactful online solutions.
+
+I thrive on collaborating with teams and individuals, believing that great ideas come to life through collective effort.
+
+I look forward to new challenges and opportunities that allow me to push the boundaries of what's possible in Software Development. Let's embark on a journey of innovation and creativity together!
+
+Here are a few technologies I have been working with recently: GenAI, LLM's, AWS, DevOps
+
+📫 How to reach me muhammad.suhail1762@gmail.com<br>
+
 
 
 ## 🌐 Connect with me:
