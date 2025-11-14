@@ -9,7 +9,7 @@ I look forward to new challenges and opportunities that allow me to push the bou
 
 Here are a few technologies I have been working with recently: GenAI, LLM's, AWS, DevOps
 
-📫 How to reach me muhammad.suhail1762@gmail.com<br>
+📫 How to reach me <br>
 
 
 
