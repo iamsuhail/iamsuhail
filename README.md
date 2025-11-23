@@ -7,7 +7,7 @@ I thrive on collaborating with teams and individuals, believing that great ideas
 
 I look forward to new challenges and opportunities that allow me to push the boundaries of what's possible in Software Development. Let's embark on a journey of innovation and creativity together!
 
-Here are a few technologies I have been working with recently: GenAI, LLM's, AWS, DevOps
+Here are a few technologies I have been working with recently: GenAI, AgenticAI, MLOps
 
 📫 How to reach me <br>
 
