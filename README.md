@@ -1,45 +1,64 @@
- <h1 align="center">Hi 👋, I'm Muhammad Suhail</h1>
-
-# 💫 About Me:
-Hello! My name is Muhammad Suhail and I enjoy creating things that live on the internet. My interest in Software development and Tech started back in my sophomore year and since then, I've been avidly exploring diverse technologies to enhance my skills and create impactful online solutions.
-
-I thrive on collaborating with teams and individuals, believing that great ideas come to life through collective effort.
-
-I look forward to new challenges and opportunities that allow me to push the boundaries of what's possible in Software Development. Let's embark on a journey of innovation and creativity together!
-
-Here are a few technologies I have been working with recently: GenAI, AgenticAI, MLOps
-
-📫 How to reach me <br>
+<!-- BATMAN HEADER -->
+<p align="center"><img width="1200" height="275" alt="image" src="https://github.com/user-attachments/assets/10a7f38b-f2c1-4154-b695-c7d416d3ec5d" />
 
 
-
-## 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-suhail-s123/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Muhamma20163690) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_its.me.suhail_/)<br> <hr>
-
-# 💻 Tech and Tools:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,react,nodejs,express,git,github,mongodb,mysql,scss,aws,firebase,vscode)](https://skillicons.dev)
-
-## 👨‍💻 Coding profile:
-<a href="https://www.leetcode.com/suhail412" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="suhail412" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/smuhammadsuhail123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="smuhammadsuhail123" height="30" width="40" /></a>
 </p>
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=iamsuhail&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-readme-streak-stats.herokuapp.com/?user=iamsuhail&theme=dark&hide_border=false)
+<h1 align="center">🦇 Muhammad Suhail</h1>
+<h3 align="center">Software Engineer • GenAI & Agentic AI • Full-Stack Developer</h3>
 
+---
 
+## 🦇 About Me  
+Just like Batman builds gadgets in the cave, I build things on the internet.  
+I love solving problems, crafting intelligent systems, and exploring the edge of what technology can do.
 
+My current obsessions:  
+- GenAI & LLM-powered Agents  
+- MLOps & scalable AI pipelines  
+- Full-stack engineering  
+- Automation & cloud infra
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=iamsuhail&theme=dark&no-frame=false&no-bg=false&margin-w=4)
+---
 
-## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## ⚡ Skills & Tools (Utility Belt)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,java,py,react,nodejs,express,tailwind,aws,mongodb,postgres,git,github,html,css,vscode" />
+</p>
 
+---
+
+## 🦾 Current Missions
+- 🔍 Building autonomous **AI Agents**  
+- ⚙️ Enhancing **MLOps workflows**  
+- 🕸️ Creating clean, fast full-stack apps  
+- 🌩️ Automating deployments on cloud  
+
+---
+
+## 🏙️ Featured Projects  
+🔹 **AI Action Agent** – An LLM agent that uses tools & executes real workflows  
+🔹 **File Manager Web App** – Full-stack, clean UI, fast search  
+🔹 **Automated Interview System** – AI + backend + UI
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=iamsuhail&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 📫 Bat-Signal  
+<p align="center">  
+  <a href="https://www.linkedin.com/in/muhammad-suhail-s123/"><img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a>
+  <a href="https://twitter.com/Muhamma20163690"><img src="https://skillicons.dev/icons?i=twitter" height="45"/></a>
+  <a href="https://www.instagram.com/_its.me.suhail_/"><img src="https://skillicons.dev/icons?i=instagram" height="45"/></a>
+</p>
+
+---
+
+## 🦇 “Because I’m a Developer… Not the Developer they asked for, but the one they need.”  
+> _“It’s not who I am underneath, but what I build that defines me.”_  
+
+---
+
+<!-- BATMAN FOOTER -->
+<p align="center">
+
+</p>
